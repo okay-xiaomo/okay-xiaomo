@@ -40,11 +40,16 @@
 ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
+
+  
 <!-- 开源项目 -->
+💪 开源项目
+
+ 
 [![](https://opengraph.githubassets.com/1cac1150838995e1f7d1643c00eee51a5d884f2054f995c9d3225b07b0eddb39/ialley-workshop-open/uni-halo)](https://github.com/ialley-workshop-open/uni-halo)
 
-<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 
+<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/XiaoMoDonnie/XiaoMoDonnie/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/XiaoMoDonnie/XiaoMoDonnie/profile-snake-contrib/github-contribution-grid-snake.svg" />
@@ -62,4 +67,5 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-  
+
+
