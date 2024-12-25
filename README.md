@@ -1,12 +1,13 @@
-### Hello, I'm Evan Mo（小莫唐尼） 👋
-<h1 align="center">
+<h1 align="center"> Hello, I'm Evan（小莫唐尼） 👋 </h1>
+
+<h2 align="center">
   <a href="https:///">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);哇！恭喜你发现了一个宝藏博主！&center=true&size=27">
   </a>
-</h1>
+</h2>
 
-  <div align="center">
-    <a href="https://blog.925i.cn/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
+<div align="center">
+   <a href="https://blog.925i.cn/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>
     <!-- <a href="https://twitter.com/it985/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp; -->
     <!-- <a href="https://www.youtube.com/@it985"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp; -->
     <!-- <a href="https://box.sunguoqi.com/weixin_mp"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp; -->
@@ -14,11 +15,8 @@
     <!-- <a href="https://blog.csdn.net/weixin_50915462/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp; -->
     <!-- <a href="https://www.zhihu.com/people/sunguoqi/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp; -->
     <!-- visitor statistics logo 访客数统计徽标 -->
-    <img src="https://komarev.com/ghpvc/?username=XiaoMoDonnie&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
-  </div>
-
-💪 正在学习
-
+   <img src="https://komarev.com/ghpvc/?username=XiaoMoDonnie&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+  
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
@@ -28,8 +26,11 @@
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat) 
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat) 
+  
+</div>
 
-🧰 常用的工具
+ 
+<h2>🧰 常用的工具 </h2>
 
 ![Xiaomi Badge](https://img.shields.io/badge/Xiaomi-FF6900?logo=xiaomi&logoColor=fff&style=flat)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
@@ -41,13 +42,15 @@
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
 
-  
-<!-- 开源项目 -->
-💪 开源项目
+<h2>💪 个人贡献 </h2>
 
+<p align="center">
+  <img height="137px" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=okay-xiaomo&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img  height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okay-xiaomo&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+</p>
  
-[![](https://opengraph.githubassets.com/1cac1150838995e1f7d1643c00eee51a5d884f2054f995c9d3225b07b0eddb39/ialley-workshop-open/uni-halo)](https://github.com/ialley-workshop-open/uni-halo)
+<h2>💪 开源项目 </h2>
 
+[![](https://opengraph.githubassets.com/1cac1150838995e1f7d1643c00eee51a5d884f2054f995c9d3225b07b0eddb39/ialley-workshop-open/uni-halo)](https://github.com/ialley-workshop-open/uni-halo)
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <picture>
@@ -55,9 +58,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/XiaoMoDonnie/XiaoMoDonnie/profile-snake-contrib/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/XiaoMoDonnie/XiaoMoDonnie/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </picture>
- 
 
-# 💡Here are some ideas to get you started:
+
+<h2>💡一些其他</h2>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
