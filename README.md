@@ -15,7 +15,7 @@
     <!-- <a href="https://blog.csdn.net/weixin_50915462/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp; -->
     <!-- <a href="https://www.zhihu.com/people/sunguoqi/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp; -->
     <!-- visitor statistics logo 访客数统计徽标 -->
-   <img src="https://komarev.com/ghpvc/?username=XiaoMoDonnie&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+   <img src="https://komarev.com/ghpvc/?username=okay-xiaomo&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
@@ -54,9 +54,9 @@
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/XiaoMoDonnie/XiaoMoDonnie/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/XiaoMoDonnie/XiaoMoDonnie/profile-snake-contrib/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/XiaoMoDonnie/XiaoMoDonnie/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/okay-xiaomo/okay-xiaomo/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/okay-xiaomo/okay-xiaomo/profile-snake-contrib/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/okay-xiaomo/okay-xiaomo/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 
